@@ -1,0 +1,34 @@
+Structural And Textual Information Fusion For Symptom And Disease Representation Learning
+
+
+In this project has three Modules:
+Admin
+Doctor
+User
+
+Admin
+Register the account with the basic information
+Login the account with the correct credentials
+User can search based on the diseases, they all the possible solution for the particular diseases.
+User can make a request for the doctor based on entering the diseases, reports, symptoms etc.
+View the doctor prescription for making the queries.
+Logout.
+
+user
+ Register the account with the basic information
+Login the account with the correct credentials
+User can search based on the diseases, they all the possible solution for the particular diseases.
+User can make a request for the doctor based on entering the diseases, reports, symptoms etc.
+View the doctor prescription for making the queries.
+Logout
+
+Doctor
+Register the account with the detailed information
+Login the account with the correct credentials
+View all the dataset available 
+View user query and give the exact solution
+Logout
+
+thankyou for watching this video 
+by 
+1crore project
